@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AppRadioButon</string>
+    <string name="txt_numero1">Dame un VALOR</string>
+    <string name="txt_numero2">Dame otro VALOR</string>
+    <string name="btn_sumar">Sumar</string>
+    <string name="btn_resta">Sustraer</string>
+    <string name="btn_calcular">Calcular Op.</string>
+    <string name="tv_resultado">Resultados</string>
+</resources>
